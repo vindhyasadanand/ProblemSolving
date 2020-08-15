@@ -1,3 +1,10 @@
 <h1> Sorting Algorithms </h1>
-<h5> What is Sorting?</h5>
-<p>Sorting is arranging the elements in a list or decreasing Order of Some Property </P>
+<h4> What is Sorting?</h4>
+<p>Sorting is arranging the elements in a list or Collection in increasing or decreasing Order of Some Property </P></br>
+<h4>Classification of Sorting Algorithms Based Upon,</h4>
+<ol>
+  <li> 1. Time Complexity : It is Rate of Growth of time taken by An Algorithm with respect to input size<li>
+  <li>2. Space Complexity (Memory Usage) - Some Algorithms will not need additional memory and they are called as **In-Place**Algorithms
+  </li>
+  <li>3. Stability </li>
+ </ol>
