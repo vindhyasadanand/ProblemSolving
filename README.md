@@ -24,6 +24,6 @@ Coding Problems Based Upon topics
  </p>
  <b>Problem link : <b> https://leetcode.com/problems/3sum/ <br>
   <b>My Solution : </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/HashSet/3sum.java<br/>
-  <h3> All sorting Algorithms </h3>
+  <h2> All sorting Algorithms </h2>
   Here is Link https://github.com/vindhyasadanand/ProblemSolving/blob/master/Sorting.md
   
