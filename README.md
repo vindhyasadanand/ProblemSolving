@@ -10,8 +10,8 @@ Coding Problems Based Upon topics
   <b> Output: true </b> <br/>
   <b> Explanation: </b> 0, -1 and 1 forms a triplet with sum equal to 0.
  </p>
- <b>Problem link <b> https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1<br>
-  <b>My Solution </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Triplet.java  <br/>
+ <b>Problem link : <b> https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1<br>
+  <b>My Solution: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Triplet.java  <br/>
   <b>Company Tags: </b> <b> Amazon</b> ,  <b> Facebook</b> , <b>Google </b><br/>
 
 <h3>2. 3Sum </h3>
