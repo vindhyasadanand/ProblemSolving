@@ -12,5 +12,5 @@ Coding Problems Based Upon topics
  </p>
  <b>Problem link <b> https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1<br>
   <b>My Solution </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Triplet.java  <br/>
-  <h5>Company Tags: </h5> <b> Amazon</b> ,  <b> Facebook</b> , <b>Google </b><br/>
+  <p>Company Tags: </p> <b> Amazon</b> ,  <b> Facebook</b> , <b>Google </b><br/>
 
