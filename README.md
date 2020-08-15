@@ -10,6 +10,6 @@ Coding Problems Based Upon topics
   <b> Output: true </b> <br>
   Explanation: 0, -1 and 1 forms a triplet with sum equal to 0.
  </p>
- [Problem link]https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1<br>
- [My Solution] 
+ <b>Problem link <b> https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1<br>
+  <b>My Solution </b>
 
