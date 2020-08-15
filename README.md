@@ -14,7 +14,7 @@ Coding Problems Based Upon topics
   <b>My Solution </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Triplet.java  <br/>
   <b>Company Tags: </b> <b> Amazon</b> ,  <b> Facebook</b> , <b>Google </b><br/>
 
-<h3>2 .3Sum </h3>
+<h3>2. 3Sum </h3>
 <h4>Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0?  Find all unique triplets in the array which gives the sum of zero. </h4>
 <p>
   <b> Input: 
