@@ -4,7 +4,7 @@ Coding Problems Based Upon topics
 <h1>Day 1 </h1>
 <h2>Problem 1</h2>
 <h3>Given an array of integers. Check whether it contains a triplet that sums up to zero. </h3>
-<h3>Problem link</h3> <link href="https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1"><br>
+<h3>Problem link</h3>(https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1)<br>
 <p>
   <b> Input: 
     N = 5, arr[] = {0, -1, 2, -3, 1} </b><br>
