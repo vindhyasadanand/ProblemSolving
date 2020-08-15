@@ -1,5 +1,5 @@
 ##Sorting Algorithms
-(https://embed-ssl.wistia.com/deliveries/70d6f4e10e2badb5ef394f00c17ad2bc1c14f6e7.jpg)
+
 <h4> What is Sorting?</h4>
 <p>Sorting is arranging the elements in a list or Collection in increasing or decreasing Order of Some Property </P></br>
 <h4>Classification of Sorting Algorithms Based Upon,</h4>
