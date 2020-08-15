@@ -20,7 +20,7 @@ Coding Problems Based Upon topics
   <b> Input: 
    nums = [-1, 0, 1, 2, -1, -4]</b><br/>
   <b> Output: [ [-1, 0, 1],  [-1, -1, 2]] </b> <br/>
-  <b> Note: </b> The solution set must not contain duplicate triplets.
+  <b> Note: </b>  The solution set must not contain duplicate triplets.
  </p>
  <b>Problem link : <b> https://leetcode.com/problems/3sum/ <br>
   <b>My Solution : </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/HashSet/3sum.java<br/>
