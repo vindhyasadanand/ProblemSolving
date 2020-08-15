@@ -12,5 +12,10 @@
     <li>When records that are need to be sorted are in the main memory or RAM then it is <b>Internal Sort</b></li>
     <li>When records that are need to be sorted are in auxiliary storage like disk,tapes such a sort is called <b>External Sort</b></li>
     </ul>
+  <li><b>Recursive</b> or<b> Non Recursive</b></li>
+  <ul>
+    <li>Merge Sort , Quick Sort are examples for <b>Recursive Algorithms</b> </li>
+    <li> Insertion Sort , Selection Sort are examples for <b>Non Recursive Algorithms</b>
+  </ul>
   </li>
  </ol>
