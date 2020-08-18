@@ -3,7 +3,7 @@ Coding Problems Based Upon topics
 
 <h1>Day 1 </h1>
 <h3>1. Find triplets with Zero Sum</h3>
-<h4>Given an array of integers. Check whether it contains a triplet that sums up to zero. </h4>
+<h4>Given an array of integers.  whether it contains a triplet that sums up to zero. </h4>
 <p>
   <b> Input: 
     N = 5, arr[] = {0, -1, 2, -3, 1} </b><br/>
@@ -26,4 +26,17 @@ Coding Problems Based Upon topics
   <b>My Solution : </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/HashSet/3sum.java<br/>
   <h3>3. All sorting Algorithms </h3>
   Here is Link https://github.com/vindhyasadanand/ProblemSolving/tree/master/Sorting
+  
+  <h1>Day 2 </h1>
+<h3>1. Find duplicates in an array of n+1 elements</h3>
+<h4>Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.</h4>
+<p>
+  <b> Input: 
+   Input: [1,3,4,2,2] </b><br/>
+  <b> Output: 2 </b> <br/>
+ 
+ </p>
+ <b>Problem link : <b> https://leetcode.com/problems/find-the-duplicate-number/<br>
+  <b>My Solution: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/HashSet/DuplicateNumber.java  <br/>
+                    https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Findduplicate.java
   
