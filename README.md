@@ -41,13 +41,17 @@ Coding Problems Based Upon topics
                     https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Findduplicate.java
   
 <h3>4. Sort Colors</h3>
-<h4>Given an array with n objects colored red, white or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white and blue.
+<h4>Given an array with n objects colored red, white or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the  red, white and blue.
 Here, we will use the integers 0, 1, and 2 to represent the color red, white, and blue respectively.</h4>
 <p>
   <b> Input: [2,0,2,1,1,0]</b><br/>
   <b> Output: [0,0,1,1,2,2] </b> <br/>
-  <b> Note: You are not suppose to use the library's sort function for this problem </b>  
+  <b> Note: You are not suppose to use the 's sort function for this problem </b>  
  </p>
  <b>Problem link : <b>https://leetcode.com/problems/sort-colors/ <br>
   <b>My Solution : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Sortcolors.java <br/>
+  
+  <h3>5. Find Maze Path exist</h3>
+
+  <b>My Solution : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Backtracking/mazepath.java <br/>
  
