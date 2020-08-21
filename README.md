@@ -51,7 +51,13 @@ Here, we will use the integers 0, 1, and 2 to represent the color red, white, an
  <b>Problem link : <b>https://leetcode.com/problems/sort-colors/ <br>
   <b>My Solution : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Sortcolors.java <br/>
   <h1>Day 3 </h1>
+  <h2>BackTracking</h2>
   <h3>5. Find Maze Path exist</h3>
 
   <b>My Solution : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Backtracking/mazepath.java <br/>
+  <h3>6. Print all Possible Pathes in a Maze</h3>
+
+  <b>My Solution : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Backtracking/findAllMazepath.java <br/>
+ 
+  
  
