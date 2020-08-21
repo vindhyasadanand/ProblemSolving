@@ -59,5 +59,8 @@ Here, we will use the integers 0, 1, and 2 to represent the color red, white, an
 
   <b>My Solution : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Backtracking/findAllMazepath.java <br/>
  
-  
+   <h3>7. Is it possible to solve a given sudoku board</h3>
+
+  <b>My Solution : </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Backtracking/Sudokuboard.java<br/>
+ 
  
