@@ -67,5 +67,10 @@ Here, we will use the integers 0, 1, and 2 to represent the color red, white, an
   <b>My Solution : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Backtracking/Permutations.java<br/>
   
   <b>Interview cake solution : </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Backtracking/StringPermutations.java<br/>
+  <h3>9. fibonacci of a number</h3>
+
+  <b>My recursive Solution : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Backtracking/recursivefib.java<br/>
   
- 
+  <b>Memoization solution : </b>  https://github.com/vindhyasadanand/ProblemSolving/blob/master/Backtracking/fibmemoization.java<br/>
+  
+  <b>Bottom-up solution : </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Backtracking/bottom-upfib.java<br/>
