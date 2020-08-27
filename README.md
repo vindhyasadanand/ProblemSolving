@@ -80,5 +80,5 @@ Here, we will use the integers 0, 1, and 2 to represent the color red, white, an
 
  <b>Problem link : <b> https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1/?track=DSA-Foundation-BST&batchId=197<br>
   <b>My recursive Solution: https://github.com/vindhyasadanand/ProblemSolving/blob/master/Binary%20Search%20Tree(BST)/bstinsert.java </b> <br/>
-  <b>My iterative Solution: https://github.com/vindhyasadanand/ProblemSolving/blob/master/Binary%20Search%20Tree(BST)/iterativeinsert.java </b> <br/>
+  <b>My iterative Solution:https://github.com/vindhyasadanand/ProblemSolving/blob/master/Binary%20Search%20Tree(BST)/iterativeinsert.java </b> <br/>
   <b>Company Tags: </b> <b> Amazon</b> ,  <b> Microsoft</b> , <b> Paytm </b> , <b>Samsung</b>, <b> Accolitle</b><br/>
