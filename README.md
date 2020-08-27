@@ -82,3 +82,11 @@ Here, we will use the integers 0, 1, and 2 to represent the color red, white, an
   <b>My recursive Solution: https://github.com/vindhyasadanand/ProblemSolving/blob/master/Binary%20Search%20Tree(BST)/bstinsert.java </b> <br/>
   <b>My iterative Solution:https://github.com/vindhyasadanand/ProblemSolving/blob/master/Binary%20Search%20Tree(BST)/iterativeinsert.java </b> <br/>
   <b>Company Tags: </b> <b> Amazon</b> ,  <b> Microsoft</b> , <b> Paytm </b> , <b>Samsung</b>, <b> Accolitle</b><br/>
+  
+  <h3>1. Search a node in a BST</h3>
+<h4>Given a Binary Search Tree and a node value X, find if node with value X is present in the BST or not. </h4>
+
+ <b>Problem link : <b> https://practice.geeksforgeeks.org/problems/search-a-node-in-bst/1/?track=DSA-Foundation-BST&batchId=197<br>
+  <b>My recursive Solution:  </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Binary%20Search%20Tree(BST)/recursiveSearch.java<br/>
+  <b>My iterative Solution: https://github.com/vindhyasadanand/ProblemSolving/blob/master/Binary%20Search%20Tree(BST)/Searchiterative.java </b> <br/>
+  <b>Company Tags: </b> <b>LinkedIn</b><br/>
