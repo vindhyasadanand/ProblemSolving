@@ -74,3 +74,21 @@ Here, we will use the integers 0, 1, and 2 to represent the color red, white, an
   <b>Memoization solution : </b>  https://github.com/vindhyasadanand/ProblemSolving/blob/master/Backtracking/fibmemoization.java<br/>
   
   <b>Bottom-up solution : </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Backtracking/bottom-upfib.java<br/>
+<h1>Day 4 : Binary Search Trees </h1>
+<h3>1. Insert a node in a BST</h3>
+<h4>Given a BST and a key K. Insert a new Node with value equal to K into the BST. </h4>
+<p>
+  <b> Input: Input:
+     2
+   /   \
+  1     3
+K = 4
+   </b><br/>
+  <b> Output: 1 2 3 4 </b> <br/>
+  <b> Explanation: </b> After inserting the node 4
+Inorder traversal will be 1 2 3 4.
+ </p>
+ <b>Problem link : <b> https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1/?track=DSA-Foundation-BST&batchId=197<br>
+  <b>My recursive Solution: </b> <br/>
+  <b>My iterative Solution: </b> <br/>
+  <b>Company Tags: </b> <b> Amazon</b> ,  <b> Microsoft</b> , <b> Paytm </b> , <b>Samsung</b>, <b> Accolitle</b><br/>
