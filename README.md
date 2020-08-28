@@ -97,3 +97,10 @@ Here, we will use the integers 0, 1, and 2 to represent the color red, white, an
   <b>My recursive Solution:  </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Binary%20Search%20Tree(BST)/Deletebst.java<br/>
   <b>My iterative Solution: https://github.com/vindhyasadanand/ProblemSolving/blob/master/Binary%20Search%20Tree(BST)/Searchiterative.java </b> <br/>
   <b>Company Tags: </b> <b> Amazon</b> ,  <b> Microsoft</b> , <b> Paytm </b> , <b>Samsung</b>, <b> Accolitle</b> <b><br/>
+<h3>13.Delete a node in BST</h3>
+<h4> </h4>
+
+ <b>Problem link : </b>  https://practice.geeksforgeeks.org/problems/preorder-traversal/1/?track=DSA-Foundation-Tree&batchId=197<br>
+ 
+  <b>My iterative Solution: https://github.com/vindhyasadanand/ProblemSolving/blob/master/Tree/iterativePreorder.java</b> <br/>
+  <b>Company Tags: </b> <b>Amazon</b>, <b>Walmart</b><br/>
