@@ -5,21 +5,21 @@
 <hr>
 
 ### 2. Backtracking
-####  Problems Link : 
+####  Problems Link : https://github.com/vindhyasadanand/ProblemSolving/tree/d9baf3eb3cd25a5afbbd1e2470bb808fa1b8fd5f/Backtracking
 <hr>
 
 ### 3. Trees
-####  Problems Link : 
+####  Problems Link : https://github.com/vindhyasadanand/ProblemSolving/tree/d9baf3eb3cd25a5afbbd1e2470bb808fa1b8fd5f/Tree
 <hr>
 
 ### 4. Binary Search Tree
-####  Problems Link : 
+####  Problems Link : https://github.com/vindhyasadanand/ProblemSolving/tree/d9baf3eb3cd25a5afbbd1e2470bb808fa1b8fd5f/Binary%20Search%20Tree(BST)
 <hr>
 
 ### 5. Sorting
-####  Problems Link : 
+####  Problems Link : https://github.com/vindhyasadanand/ProblemSolving/tree/d9baf3eb3cd25a5afbbd1e2470bb808fa1b8fd5f/Sorting
 <hr>
 
 ### 6. HashSet
-####  Problems Link : 
+####  Problems Link : https://github.com/vindhyasadanand/ProblemSolving/tree/d9baf3eb3cd25a5afbbd1e2470bb808fa1b8fd5f/HashSet
 <hr>
