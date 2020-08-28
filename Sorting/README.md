@@ -1,13 +1,13 @@
 <h1>Sorting Algorithms</h1>
 
 <h4> What is Sorting?</h4>
-<p>Sorting is arranging the elements in a list or Collection in increasing or decreasing Order of Some Property </P></br>
+<p>Sorting is arranging the elements in a list or Collection in increasing or decreasing  of Some Property </P></br>
 <h4>Classification of Sorting Algorithms Based Upon,</h4>
 <ol>
   <li> <b> Time Complexity </b>: It is Rate of Growth of time taken by An Algorithm with respect to input size</li>
   <li><b> Space Complexity (Memory Usage)</b> - Some Algorithms will not need additional memory and they are called as <b>In-Place</b> Algorithms
   </li>
-  <li> <b>Stability</b> : Stable sorting Algorithms Preserves the Relative Order of elements  </li>
+  <li> <b>Stability</b> : Stable sorting Algorithms Preserves the Relative  of elements  </li>
   <li><b>Internal sort</b> vs <b>External Sort</b> 
   <ul>
     <li>When records that are need to be sorted are in the main memory or RAM then it is <b>Internal Sort</b></li>
@@ -21,5 +21,15 @@
   </li>
  </ol>
 <h2>Lets Start by Coding the Algorithms</h2>
-<h3>1. Selection Sort</h3>
-<p>My code: https://github.com/vindhyasadanand/ProblemSolving/blob/master/Sorting/SelectionSort.java</p>
+<h3> 1.Selection sort </h3>
+<b> My Solution: https://github.com/vindhyasadanand/ProblemSolving/blob/master/Sorting/SelectionSort.java </b>
+
+<h3> 2.Bubble sort </h3>
+<b> My Solution: https://github.com/vindhyasadanand/ProblemSolving/blob/master/Sorting/BubbleSort.java</b>
+
+<h3> 3.Insertion sort </h3>
+<b> My Solution: https://github.com/vindhyasadanand/ProblemSolving/blob/master/Sorting/insertionsort.java</b>
+
+<h3> 4.Merge sort </h3>
+<b> My Solution: https://github.com/vindhyasadanand/ProblemSolving/blob/master/Sorting/Mergesort.java</b>
+
