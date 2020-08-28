@@ -1,10 +1,7 @@
 
-<h2>1. Find triplets with Zero Sum</h2>
-<h3>Given an array of integers. Check whether it contains a triplet that sums up to zero. </h3>
-<h3>1. Find triplets with Zero Sum</h3>
-<h4>Given an array of integers. Check whether it contains a triplet that sums up to zero. </h4>
-<p>
-  <b> Input: 
-    N = 5, arr[] = {0, -1, 2, -3, 1} </b><br/>
-<b>My Solution </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Triplet.java  <br/>
-  <b>Company Tags: </b> <b> Amazon</b> ,  <b> Facebook</b> , <b>Google </b><br/>
+<h3> 1.Find duplicates in an array of n+1 elements </h3>
+<p> Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one. </p> <br>
+<b> Input: Input: [1,3,4,2,2] </b> <br>
+<b> 2 </b> <br>
+<b> Problem Link : </b>  https://leetcode.com/problems/find-the-duplicate-number/  <br>
+<b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Findduplicate.java <br>
