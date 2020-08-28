@@ -5,21 +5,21 @@
 <hr>
 
 ### 2. Backtracking
-### All Prpblems Link : 
+####  Problems Link : 
 <hr>
 
 ### 3. Trees
-### All Prpblems Link : 
+####  Problems Link : 
 <hr>
 
 ### 4. Binary Search Tree
-### All Prpblems Link : 
+####  Problems Link : 
 <hr>
 
 ### 5. Sorting
-### All Prpblems Link : 
+####  Problems Link : 
 <hr>
 
 ### 6. HashSet
-### All Prpblems Link : 
+####  Problems Link : 
 <hr>
