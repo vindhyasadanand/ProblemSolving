@@ -4,3 +4,12 @@
 <b>LeetCode My Solution : </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/Anagrams.java <br>
 <b>GeeksforGeeks My Solution 1 : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/AnagramsGFG.java <br>
 <b>GeeksforGeeks My Solution 2: </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/anagram.java <br>
+
+<h2> 2.First repeating character in a string </h2>
+<b>GeeksforGeeks Problem Link </b>https://practice.geeksforgeeks.org/problems/find-first-repeated-character/0 <br>
+<b> My Solution: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/firstrepeating.java<br>
+
+
+
+
+
