@@ -23,3 +23,7 @@
 <h3>4 Finding Second largest element in an array</h3>
 <b> Problem Link : </b>https://practice.geeksforgeeks.org/problems/find-second-largest-element/0  <br>
 <b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Secondlargest.java <br>
+
+<h3>5.Reverse a string </h3>
+<b> Problem Link : </b> https://practice.geeksforgeeks.org/problems/reverse-the-string/0 <br>
+<b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/stringreverse.java <br>
