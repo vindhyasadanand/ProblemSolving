@@ -13,9 +13,13 @@
 <b> Problem Link : </b>  https://leetcode.com/problems/sort-colors/ <br>
 <b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Sortcolors.java <br>
 
-<h3>1. Find triplets with Zero Sum</h3>
+<h3>3. Find triplets with Zero Sum</h3>
 <h4> Given an array of integers. whether it contains a triplet that sums up to zero.</h4> 
 <b> Input: N = 5, arr[] = {0, -1, 2, -3, 1}  </b> <br>
 <b>Output: true  </b> <br>
 <b> Problem Link : </b> https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1    <br>
+<b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Triplet.java <br>
+
+<h3>4 Finding Second largest element in an array</h3>
+<b> Problem Link : </b>https://practice.geeksforgeeks.org/problems/find-second-largest-element/0  <br>
 <b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Triplet.java <br>
