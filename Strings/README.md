@@ -10,6 +10,9 @@
 <b> My Solution: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/firstrepeating.java<br>
 
 
+<h3>3.Reverse a string </h3>
+<b> Problem Link : </b> https://practice.geeksforgeeks.org/problems/reverse-the-string/0 <br>
+<b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/stringreverse.java <br>
 
 
 
