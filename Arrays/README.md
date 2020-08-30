@@ -22,4 +22,4 @@
 
 <h3>4 Finding Second largest element in an array</h3>
 <b> Problem Link : </b>https://practice.geeksforgeeks.org/problems/find-second-largest-element/0  <br>
-<b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Triplet.java <br>
+<b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Secondlargest.java <br>
