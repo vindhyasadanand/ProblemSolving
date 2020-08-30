@@ -24,7 +24,7 @@
 <b> Problem Link : </b>https://practice.geeksforgeeks.org/problems/find-second-largest-element/0  <br>
 <b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Secondlargest.java <br>
 
-<h3>3. Move zeros to end of the array</h3>
+<h3>4. Move zeros to end of the array</h3>
 <b> Problem Link : </b> https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array/0  <br>
 <b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Secondlargest.java <br>
 
