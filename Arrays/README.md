@@ -32,5 +32,9 @@
 <b> Problem Link : </b>https://practice.geeksforgeeks.org/problems/maximum-difference/0   <br>
 <b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/findmaxdiff.java <br>
 
+<h3>7. Finding maximum consecutive ones in an array</h3>
+<b> Problem Link : </b>https://leetcode.com/problems/max-consecutive-ones/submissions/ <br>
+<b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Maximumconsecutiveones.java <br>
+
 
 
