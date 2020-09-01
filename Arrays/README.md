@@ -28,3 +28,9 @@
 <b> Problem Link : </b> https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array/0  <br>
 <b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Secondlargest.java <br>
 
+<h3>6. Maximum difference in an array</h3>
+<b> Problem Link : </b>https://practice.geeksforgeeks.org/problems/maximum-difference/0   <br>
+<b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/findmaxdiff.java <br>
+
+
+
