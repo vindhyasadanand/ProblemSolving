@@ -40,5 +40,8 @@
 <b> Problem Link : </b> https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ <br>
 <b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/besttime.java <br>
 
+<h3>8.Trapping Rain water </h3>
+<b> Problem Link : </b> https://leetcode.com/problems/trapping-rain-water/<br>
+<b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/trappingwater.java <br>
 
 
