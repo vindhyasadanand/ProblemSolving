@@ -36,5 +36,9 @@
 <b> Problem Link : </b>https://leetcode.com/problems/max-consecutive-ones/submissions/ <br>
 <b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Maximumconsecutiveones.java <br>
 
+<h3>7. Best time to cell and buy the stock</h3>
+<b> Problem Link : </b> https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ <br>
+<b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/besttime.java <br>
+
 
 
