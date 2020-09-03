@@ -40,8 +40,19 @@
 <b> Problem Link : </b> https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ <br>
 <b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/besttime.java <br>
 
-<h3>8.Trapping Rain water </h3>
-<b> Problem Link : </b> https://leetcode.com/problems/trapping-rain-water/<br>
+<h3>8.Trapping Rain  </h3>
+<b> Problem Link : </b> https://leetcode.com/problems/trapping-rain-/<br>
 <b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/trappingwater.java <br>
+
+<h3>9.Majority Element in an Array  </h3>
+<b>  Leetcode Problem Link : </b> https://leetcode.com/problems/majority-element/submissions/  <br>
+<b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/majorityele.java <br>
+<b>  GeeksforGeeks Problem Link : </b> https://practice.geeksforgeeks.org/problems/majority-element/0  <br>
+<b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Majorityele2.java <br>
+
+
+
+
+
 
 
