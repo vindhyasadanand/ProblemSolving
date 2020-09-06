@@ -50,9 +50,13 @@
 <b>  GeeksforGeeks Problem Link : </b> https://practice.geeksforgeeks.org/problems/majority-element/0  <br>
 <b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/Majorityele2.java <br>
 
-<h3>10. Remove duplicates from sorted array (Two Pointer Technique) </h3>
+<h3>10. Remove duplicates from sorted array (Two  Technique) </h3>
 <b> Problem Link : </b> https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/<br>
 <b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/removeduplicates.java<br>
+
+<h3>11.Sparse Arrays (Hackerrank) </h3>
+<b> Problem Link : </b> https://www.hackerrank.com/challenges/sparse-arrays/problem <br>
+<b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/sparse.java <br>
 
 
 
