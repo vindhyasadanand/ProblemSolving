@@ -17,5 +17,12 @@
 <h3>4.Finding length of the string </h3>
 <b> My Solution : </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/stringlength.java <br>
 
+<h3>5.Reversing a string </h3>
+<b> My Solution : </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/stringreverse.java<br>
+
+
+
+
+
 
 
