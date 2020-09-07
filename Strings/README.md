@@ -20,6 +20,10 @@
 <h3>5.Reversing a string </h3>
 <b> My Solution : </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/stringreverse.java<br>
 
+<h3>6.First non repeating character in a string </h3>
+<b> Problem Link : </b>https://leetcode.com/problems/first-unique-character-in-a-string/submissions/ <br>
+<b> My Solution : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/firstnonrep.java  <br>
+
 
 
 
