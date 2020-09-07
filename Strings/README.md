@@ -14,5 +14,8 @@
 <b> Problem Link : </b> https://practice.geeksforgeeks.org/problems/reverse-the-string/0 <br>
 <b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/stringreverse.java <br>
 
+<h3>4.Finding length of the string </h3>
+<b> My Solution : </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/stringlength.java <br>
+
 
 
