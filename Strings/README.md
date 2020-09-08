@@ -25,6 +25,11 @@
 <b> My Solution : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/firstnonrep.java  <br>
 
 
+<h3>7.Check given string is rotated by 2 </h3>
+<b> Problem Link : </b>https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0 <br>
+<b> My Solution : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/rotatedbytwo.java <br>
+
+
 
 
 
