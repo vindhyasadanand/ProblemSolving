@@ -58,6 +58,10 @@
 <b> Problem Link : </b> https://www.hackerrank.com/challenges/sparse-arrays/problem <br>
 <b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/sparse.java <br>
 
+<h3>12.Subarray Sum equals K </h3>
+<b> Problem Link : </b> https://leetcode.com/problems/subarray-sum-equals-k/submissions/ <br>
+<b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/subarraysum.java <br>
+
 
 
 
