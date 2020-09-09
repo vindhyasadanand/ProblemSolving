@@ -74,6 +74,16 @@
 <b> Problem Link : </b> https://practice.geeksforgeeks.org/problems/count-smaller-elements/0 <br>
 <b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/countsmallerelements.java  <br>
 
+<h3>15.Count Smaller Elements</h3>
+<b> Problem Link : </b> https://practice.geeksforgeeks.org/problems/count-smaller-elements/0 <br>
+<b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/countsmallerelements.java  <br>
+
+
+<h3>16.Rotate Array </h3>
+<b> Problem Link : </b> https://practice.geeksforgeeks.org/problems/reversal-algorithm/0 <br>
+<b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/rotateArray.java <br>
+
+
 
 
 
