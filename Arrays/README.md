@@ -67,6 +67,11 @@
 <b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/productofanarray.java <br>
 
 
+<h3>14.Element occours only once </h3>
+<b> Problem Link : </b> https://practice.geeksforgeeks.org/problems/element-appearing-once/0 <br>
+<b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/elementoccours.java<br>
+
+
 
 
 
