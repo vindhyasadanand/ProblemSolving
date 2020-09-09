@@ -62,6 +62,11 @@
 <b> Problem Link : </b> https://leetcode.com/problems/subarray-sum-equals-k/submissions/ <br>
 <b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/subarraysum.java <br>
 
+<h3>13.Product of an Array except the self </h3>
+<b> Problem Link : </b>https://leetcode.com/problems/product-of-array-except-self/ <br>
+<b> My Solution</b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/productofanarray.java <br>
+
+
 
 
 
