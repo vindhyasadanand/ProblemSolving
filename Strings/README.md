@@ -25,9 +25,16 @@
 <b> My Solution : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/firstnonrep.java  <br>
 
 
-<h3>7.Check given string is rotated by 2 </h3>
-<b> Problem Link : </b>https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0 <br>
+<h3>7. given string is rotated by 2 </h3>
+<b> Problem Link : </b>https://practice.geeksforgeeks.org/problems/-if-string-is-rotated-by-two-places/0 <br>
 <b> My Solution : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/rotatedbytwo.java <br>
+
+<h3>8. Split a string into Balanced </h3>
+<b> Problem Link : </b>  https://leetcode.com/problems/split-a-string-in-balanced-strings/<br>
+<b> My Solution : </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/splitstringinbalence.java <br>
+
+
+
 
 
 
