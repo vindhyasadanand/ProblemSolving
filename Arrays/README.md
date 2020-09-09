@@ -84,6 +84,13 @@
 <b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Arrays/rotateArray.java <br>
 
 
+<h3>17.Strings with Number at the end </h3>
+<b> Problem Link : </b> https://practice.geeksforgeeks.org/problems/string-with-numbers-at-its-end/0 <br>
+<b> My Solution</b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Strings/stringswithcharatend.java <br>
+
+
+
+
 
 
 
