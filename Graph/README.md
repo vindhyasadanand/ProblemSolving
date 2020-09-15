@@ -6,3 +6,8 @@
 <h3>2.DFS of Graph</h3>
 <b>Problem Link: </b> https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1/?track=DSA-Foundation-Graph&batchId=197 <br>
 <b>Solution Link: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Graph/dfs.java<br>
+
+<h3>3.Print Adjacency List</h3>
+<b>Problem Link: </b> https://practice.geeksforgeeks.org/problems/print-adjacency-list/1 <br>
+<b>Solution Link: </b>  <br>
+
