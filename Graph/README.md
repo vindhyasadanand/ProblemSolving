@@ -9,5 +9,5 @@
 
 <h3>3.Print Adjacency List</h3>
 <b>Problem Link: </b> https://practice.geeksforgeeks.org/problems/print-adjacency-list/1 <br>
-<b>Solution Link: </b>  <br>
+<b>Solution Link: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Graph/Printadjmatrix.java<br>
 
