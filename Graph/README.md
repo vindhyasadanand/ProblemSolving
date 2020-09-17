@@ -29,6 +29,10 @@
 <b>Problem Link: </b> https://practice.geeksforgeeks.org/problems/print-adjacency-list/0 <br>
 <b>Solution Link: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Graph/printadjlist.java<br>
 
+<h3>8.Detecting cycle in an Directed Graph</h3>
+<b>Problem Link: </b>  https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1 <br>
+<b>Solution Link: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Graph/cycleinanDirectedGraph.java <br>
+
 
 
 
