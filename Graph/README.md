@@ -11,3 +11,9 @@
 <b>Problem Link: </b> https://practice.geeksforgeeks.org/problems/print-adjacency-list/1 <br>
 <b>Solution Link: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Graph/Printadjmatrix.java<br>
 
+<h3>4.Topological Sorting</h3>
+<b>Problem Link: </b> https://practice.geeksforgeeks.org/problems/topological-sort/1/?track=DSA-Foundation-Graph&batchId=197  <br>
+<b>Solution Link: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Graph/topological.java<br>
+
+
+
