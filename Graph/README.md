@@ -15,7 +15,8 @@
 
 <h3>4.Topological Sorting</h3>
 <b>Problem Link: </b> https://practice.geeksforgeeks.org/problems/topological-sort/1/?track=DSA-Foundation-Graph&batchId=197  <br>
-<b>Solution Link: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Graph/topological.java<br>
+<b> BFS based Solution Link (Kahns Algorithm): </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Graph/topological.java<br>
+<b> DFS based Solution Link : </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Graph/topologicalsortingDfs.java <br>
 
 <h3>5.Graph Implementation using AdjacencyList</h3>
 <b>Solution Link: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Graph/AdjacencyListgraph.java <br>
