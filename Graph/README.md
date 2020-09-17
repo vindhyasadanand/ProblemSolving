@@ -20,7 +20,7 @@
 
 <h3>6.Print Adjacency List</h3>
 <b>Problem Link: </b>https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1/?track=DSA-Foundation-Graph&batchId=197  <br>
-<b>Solution Link: </b> <br>
+<b>Solution Link: </b>https://github.com/vindhyasadanand/ProblemSolving/blob/master/Graph/Printadjacencylist.java <br>
 
 
 
