@@ -33,6 +33,14 @@
 <b>Problem Link: </b>  https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1 <br>
 <b>Solution Link: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Graph/cycleinanDirectedGraph.java <br>
 
+<h3>9.Detecting cycle in an Undirected Graph</h3>
+<b>Problem Link: </b> https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1 <br>
+<b>Solution Link: </b> https://github.com/vindhyasadanand/ProblemSolving/blob/master/Graph/detectcycleundirected.java <br>
+
+
+
+
+
 
 
 
